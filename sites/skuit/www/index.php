@@ -1,5 +1,3 @@
-<?
-include_once './lab4/header.php';
-include_once './lab4/hobbits.php';
-include_once './lab4/footer.php';
+<?php 
+include_once '/workspaces/php-course-template/sites/skuit/www/lab2/hello_lab2.php';
 ?>
