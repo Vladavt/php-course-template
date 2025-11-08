@@ -3,11 +3,11 @@ font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 margin: 0;
 padding: 0;
 background: #f4f1ea;
-color: #4261e9;
+color: #2c2c2c;
 }
 
 header {
-background: #324a80;
+background: #3e2f1c;
 color: #fff;
 padding: 15px 20px;
 text-align: center;
@@ -18,8 +18,8 @@ box-shadow: 0 2px 5px rgba(0,0,0,0.4);
 }
 
 footer {
-background: #324a80;
-color: #ffffff;
+background: #3e2f1c;
+color: #d4c7a2;
 padding: 10px;
 text-align: center;
 font-size: 14px;
@@ -54,7 +54,6 @@ grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
 gap: 15px;
 margin-top: 15px;
 }
-
 .product-card {
 background: #f8f6f1;
 border: 1px solid #d6c8a7;

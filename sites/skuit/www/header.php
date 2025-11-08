@@ -5,8 +5,8 @@ $title = "🏗️ Строительный магазин";
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Автамонов Владислав Алексеевич - Группа С025</title>
-    <link rel="stylesheet" href="./styles/style.css">
+    <title>Автамонов Владислав Алексеевич</title>
+    <link rel="stylesheet" href="/styles/style.css">
 </head>
 <body>
     <header>
