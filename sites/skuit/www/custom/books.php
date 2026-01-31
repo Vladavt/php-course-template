@@ -13,7 +13,7 @@ $books = [
         "year" => 1866,
     ],
 ];
-$studentName = "Автамонов Владислав"; 
+$studentName = "Автамонов Bладислав"; 
 ?>
 
 <!DOCTYPE html>

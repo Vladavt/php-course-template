@@ -9,7 +9,7 @@ $books = json_decode($jsonData, true);
 if ($books === null) {
     die("ошибка при чтении JSON: " . json_last_error_msg());
 }
-$studentName = "Автамонов Владислав"; 
+$studentName = "Автамонов Bладислав"; 
 ?>
 
 <!DOCTYPE html>

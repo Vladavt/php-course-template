@@ -1,6 +1,6 @@
 <?php
 $jsonFile = __DIR__ .'/books_storage.json';
-$studentName = "Автамонов Владислав";
+$studentName = "Автамонов Bладислав";
 
 if (!file_exists($jsonFile)) {
     die("Файл books_storage.json не найден!");
