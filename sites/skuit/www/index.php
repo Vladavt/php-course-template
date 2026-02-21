@@ -1,3 +1,3 @@
-<?
-include_once './lab0/index.php';
+<?php
+include 'lab7/main.php';
 ?>
