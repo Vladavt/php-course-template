@@ -1,3 +1,5 @@
-<?
-include_once './lab0/index.php';
+<?php
+include 'header.php';
+include 'lab6/main.php';
+include 'footer.php';
 ?>
